@@ -1,0 +1,112 @@
+                                                                                                                                        [Config]
+        Profile=1
+        Vocation=Druid
+        TibiaPath=C:\Users\marco\AppData\Local\Programs\KroveraOT\KroveraServers\bin\Client.exe
+        MHPath=C:\Users\marco\Downloads\TibiaSettings.ini
+WindowsX=1269
+WindowsY=424
+Locked=0
+        [ConfigHotkeys]
+        HkStart=>||HkStart||0||[...]
+        HkPause=>||HkPause||0||[...]
+        HkFirstProfile=>||HkFirstProfile||0||[...]||1||Knight
+        HkSecondProfile=>||HkSecondProfile||0||[...]||1||Druid
+        HkThirdProfile=>||HkThirdProfile||0||[...]||2||Knight
+        HkEnergyRing=>||HkEnergyRing||0||[...]
+        HkSSA=>||HkSSA||0||[...]
+        HkKeepHaste=>||HkKeepHaste||0||[...]
+        HkUtamoVita=>||HkUtamoVita||0||[...]
+        HkSwapRing=>||HkSwapRing||0||[...]
+        HkSwapAmulet=>||HkSwapAmulet||0||[...]
+        Reconnect=>||Reconnect||1
+        [1-Knight]
+HkCombo1=>||HkCombo1||ComboConfig||Primeiro||[...]||0||0
+HkCombo2=>||HkCombo2||ComboConfig||Segundo||[...]||0||0
+HkCombo3=>||HkCombo3||ComboConfig||Terceiro||[...]||0||0
+FirstHealing=>||FirstHealing||HealingSpells||1||F1||90||5
+SecondHealing=>||SecondHealing||HealingSpells||0||F1||75||5
+ThirdHealing=>||ThirdHealing||HealingSpells||0||F1||90||5
+Haste=>||Haste||General||1||F3
+CureParalyze=>||CureParalyze||General||1||F3||
+Targeting=>||Targeting||Training||0||F10||Disabled||Disabled
+GoldConverter=>||GoldConverter||PvP||1
+ComboConfig=>||ComboConfig||ComboConfig||0||FirstCombo||0||1
+GodFlower=>||GodFlower||PvP||0||-||518||287
+SpellMax=>||SpellMax||Training||0||F1
+AntiAfk=>||AntiAfk||Training||1
+TrainSpells=>||TrainSpells||Training||0||F1||
+TakeFromFloor=>||TakeFromFloor||Training||0||0||0||0
+TimedSpell2=>||TimedSpell2||Smart||0||F4||2||Attack
+Loot=>||Loot||General||0||||5||0
+EatFood=>||EatFood||General||1||F10
+AntiPush=>||AntiPush||PvP||0||NumpadDiv||0||0
+TimedSpell3=>||TimedSpell3||Smart||0||F4||1||None
+TimedSpell1=>||TimedSpell1||Smart||0||F4||2||Attack
+EnergyRing=>||EnergyRing||EnergyRingHighPriority||1||PgUp||60||80||0||0
+SSA=>||SSA||SSAHighPriority||0||NumpadAdd||99||100||0
+        [2-Knight]
+HkCombo1=>||HkCombo1||ComboConfig||Primeiro||[...]||0||0
+HkCombo2=>||HkCombo2||ComboConfig||Segundo||[...]||0||0
+HkCombo3=>||HkCombo3||ComboConfig||Terceiro||[...]||0||0
+Haste=>||Haste||General||1||F3
+CureParalyze=>||CureParalyze||General||1||F3||F3
+HealthFood=>||HealthFood||HighPriority||0||F1||90
+GoldConverter=>||GoldConverter||PvP||1
+FirstHealing=>||FirstHealing||HealingSpells||1||F1||80||20
+Targeting=>||Targeting||Training||0||||Disabled||Disabled
+TrainSpells=>||TrainSpells||Training||0||F4||F4
+TimedSpell2=>||TimedSpell2||Smart||0||F4||2||Attack
+SecondHealing=>||SecondHealing||HealingSpells||0||F1||60||20
+TimedSpell1=>||TimedSpell1||Smart||0||F7||4||Attack
+TimedSpell3=>||TimedSpell3||Smart||0||F10||10||None
+FirstHealthPotion=>||FirstHealthPotion||Potions||0||F5||75||0||0||[...]||GreatHealthPotion
+GodFlower=>||GodFlower||PvP||0||||0||0
+FirstManaPotion=>||FirstManaPotion||Potions||0||F10||70||0||0||[...]||NoPotion
+        [3-Knight]
+HkCombo1=>||HkCombo1||ComboConfig||Primeiro||[...]||0||0
+HkCombo2=>||HkCombo2||ComboConfig||Segundo||[...]||0||0
+HkCombo3=>||HkCombo3||ComboConfig||Terceiro||[...]||0||0
+Haste=>||Haste||General||1||F3
+HealthFood=>||HealthFood||HighPriority||0||F1||80
+FirstHealing=>||FirstHealing||HealingSpells||1||F1||80||20
+GoldConverter=>||GoldConverter||PvP||1
+Targeting=>||Targeting||Training||0||[...]||Disabled||Disabled
+EnergyRing=>||EnergyRing||EnergyRingHighPriority||1||PgUp||40||70||0||0
+Quiver=>||Quiver||General||1||NumpadAdd||700
+TimedSpell1=>||TimedSpell1||Smart||0||F4||2||Attack
+EatFood=>||EatFood||General||0||F10
+DragQuiver=>||DragQuiver||PvP||0||||0||0||700
+Ammo=>||Ammo||PvP||0||||
+TakeFromFloor=>||TakeFromFloor||Training||0||0||0||0
+TimedSpell2=>||TimedSpell2||Smart||0||F1||1||Healing
+        [4-Knight]
+        [1-Paladin]
+        [2-Paladin]
+        [3-Paladin]
+        [4-Paladin]
+        [1-Druid]
+HkCombo1=>||HkCombo1||ComboConfig||Primeiro||[...]||0||0
+HkCombo2=>||HkCombo2||ComboConfig||Segundo||[...]||0||0
+HkCombo3=>||HkCombo3||ComboConfig||Terceiro||[...]||0||0
+OTServer=>||OTServer||Main||1||0
+ThirdHealing=>||ThirdHealing||HealingSpells||1||3||95||10
+FirstHealing=>||FirstHealing||HealingSpells||1||F1||50||20
+SecondHealing=>||SecondHealing||HealingSpells||1||2||80||10
+ExuraMaxVita=>||ExuraMaxVita||DruidSorcererHealingSpells||1||F6||20||20
+ExuraSio=>||ExuraSio||DruidHealingSpells||0||.||70||20||0
+        [2-Druid]
+HkCombo1=>||HkCombo1||ComboConfig||Primeiro||[...]||0||0
+HkCombo2=>||HkCombo2||ComboConfig||Segundo||[...]||0||0
+HkCombo3=>||HkCombo3||ComboConfig||Terceiro||[...]||0||0
+OTServer=>||OTServer||Main||1||0
+ThirdHealing=>||ThirdHealing||HealingSpells||1||3||95||10
+FirstHealing=>||FirstHealing||HealingSpells||1||F1||50||20
+SecondHealing=>||SecondHealing||HealingSpells||1||2||80||10
+ExuraMaxVita=>||ExuraMaxVita||DruidSorcererHealingSpells||1||F6||20||20
+ExuraSio=>||ExuraSio||DruidHealingSpells||0||.||70||20||0
+        [3-Druid]
+        [4-Druid]
+        [1-Sorcerer]
+        [2-Sorcerer]
+        [3-Sorcerer]
+        [4-Sorcerer]
